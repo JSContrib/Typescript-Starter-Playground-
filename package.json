@@ -1,0 +1,10 @@
+{
+  "name": "typescript-book-sample",
+  "description": "",
+  "homepage": "https://stackblitz.com/edit/typescript-book-sample",
+  "dependencies": {},
+  "version": "1.0.0",
+  "devDependencies": {
+    "node-dev-server": "0.0.1"
+  }
+}
